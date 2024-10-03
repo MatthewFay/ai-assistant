@@ -1,0 +1,22 @@
+{
+  "name": "ai-assistant",
+  "version": "1.0.0",
+  "description": "AI Assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewFay/ai-assistant.git"
+  },
+  "author": "Matthew Fay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewFay/ai-assistant/issues"
+  },
+  "homepage": "https://github.com/MatthewFay/ai-assistant#readme",
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.664.0"
+  }
+}
